@@ -10,3 +10,6 @@ estos son pruebas. se hicieron modificaciones.
 En camara parece alto, pero en verdad no lo es.
 
 html
+Este es el index.html y quedo listo para el css
+
+style.css
