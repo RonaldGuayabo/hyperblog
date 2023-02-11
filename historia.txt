@@ -1,15 +1,7 @@
-Esta es la hostoria de Ronald Guayabo
+Esta es la historia de Freddy Vega
 
-Ronald tiene 42 años y nacio ne Colombia
-pero realmente tengo 42, habia quedado mal escrito
+Freddy Vega tiene 32 años y nació en Colombia
 
-Hoy hablamos de su historia.
+Anita Platzi tiene 41 años y nació en Internet
 
-estos son pruebas. se hicieron modificaciones. 
-
-En camara parece alto, pero en verdad no lo es.
-
-html
-Este es el index.html y quedo listo para el css
-
-style.css
+Mañana nos enfocaremos en su vida laboral
